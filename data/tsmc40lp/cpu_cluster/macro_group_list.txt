@@ -1,0 +1,8 @@
+u_ax25_core_top_0
+u_ax25_core_top_1
+u_ax25_core_top_2
+u_ax25_core_top_3
+u_dma_0
+u_dma_1
+u_oic_asicland_x330_cpu_cluster_core
+u_oic_asicland_x330_cpu_cluster_dma

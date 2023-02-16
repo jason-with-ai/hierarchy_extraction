@@ -1,0 +1,6 @@
+cortexa5_0_u_cortexa5_0
+cortexa5_1_u_cortexa5_1
+cortexa5_2_u_cortexa5_2
+cortexa5_3_u_cortexa5_3
+u_ca5scu_rams
+u_ram_array
